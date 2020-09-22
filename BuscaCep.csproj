@@ -214,7 +214,6 @@
   <ItemGroup>
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\BuscaCep - Folder.pubxml" />
-    <None Include="Properties\PublishProfiles\BuscaCep - Web Deploy.pubxml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
